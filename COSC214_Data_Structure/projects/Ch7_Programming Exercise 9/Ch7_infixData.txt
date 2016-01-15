@@ -1,0 +1,5 @@
+A+B-C;
+(A+B)*C;
+(A+B)*(C-D);
+A+((B+C)*(E-F)-G)/(H-I);
+A+B*(C+D)-E/F*G+H;
