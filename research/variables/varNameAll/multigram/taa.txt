@@ -1,0 +1,87 @@
+follow rule oper def inner type group impl in rule oper def inner type group 
+follow rule oper def inner type group in rule oper def inner type group 
+follow rule oper def inner type group impl in rule oper def inner type group 
+follow rule oper def inner type group in rule oper def inner type group 
+follow rule oper def inner typename assignment in rule oper def inner type group impl 
+follow rule oper def inner typename assignment in rule oper def inner type group impl 
+follow rule oper def inner type type assignment in rule oper def inner type group impl 
+follow rule oper def alternatives in rule oper def 
+follow rule oper def args assignment in rule oper def group impl 
+follow rule oper def args assignment in rule oper def group impl 
+follow rule oper def definition assignment in rule oper def group impl 
+follow rule oper def definition assignment in rule oper def group impl 
+follow rule oper def definition assignment in rule oper def group impl 
+follow rule oper def group impl in rule oper def group 
+follow rule oper def group in rule oper def group impl 
+follow rule oper def group impl in rule oper def group 
+follow rule oper def group in rule oper def group 
+format allowed parameter 
+format amount 
+format apply order 
+format arg 
+format arguments 
+format box 
+format br 
+format buttons panel 
+format choice 
+format chunk header 
+format class parameter 
+format class 
+format code 
+format data 
+format date br 
+format date type 
+format date 
+format date general 
+format default 
+format description no substitution 
+format description substitution 
+format description 
+format details 
+format dialog comma invalid format error 
+format dialog custom format 
+format dialog custom help 
+format dialog custom label 
+format dialog custom op 
+format dialog dialog message 
+format dialog dialog title 
+format dialog double op 
+format dialog error di a lot title 
+format dialog format type label 
+format dialog integer op 
+format dialog invalid format error 
+format dialog raw op 
+format document description 
+format document image 
+format document label 
+format document tooltip 
+format email string 
+format email 
+format emails 
+format error 
+format file name 
+format file 
+format for dates 
+format for task dates 
+format format name 
+format frame 
+format group 
+format item 
+format jsp action delegate format 
+format job building commitinfo 
+format json param 
+format label 
+format mvc 
+format m vcd off 
+format mvc dtb 
+format manifest action action text 
+format manifest operation subtask 
+format manifest operation task 
+format menu manager format action label text 
+format menu label 
+format minor 
+format na slika 
+format name 
+format names 
+format num 
+format number type 
