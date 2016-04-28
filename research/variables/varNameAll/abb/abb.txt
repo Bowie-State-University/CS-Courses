@@ -1,0 +1,39 @@
+id [identity] 7919647
+par [parameter] 2413306
+var [variable] 2118464
+args [argment] 2099529
+ex [exception] 2053246
+url [uniform resource locator] 1672830
+info [information] 1639637
+arg [argment] 1566960
+obj [object] 1551775
+max [maximum] 1481870  
+num [number] 1411019
+msg [message] 1247637
+str [string] 1195036
+uri [uniform resource identifier] 1113199
+param [parameter] 977515
+params [parameter] 974741
+it [iterator] 925938
+pos [position] 923193
+config [configuration] 883763
+len [length] 851829
+of [OperationFactory] 846763
+res [resource] 783244 
+sql [structured query language] 731669
+doc [document]720086
+sb [string buffer] 682340
+no [number of] 678083
+buf [buffer] 668238
+conf [configuration]639919
+src [source] 635188
+min [minimum] 632424
+gl [geometric point list] 620455 
+be [blank edge]
+be [blank exception]
+be [blink entry]
+be [bitly exception]
+be [bittorrent exception]
+be [business exception]
+e [event]
+e [exception]
