@@ -1,0 +1,9 @@
+<s> ast 21
+ast parentheses 21
+person <s> 20
+parentheses person 20
+parentheses assert 2
+<s> parentheses 2
+my <s> 2
+assert my 2
+parentheses <s> 1
