@@ -1486,7 +1486,6 @@ Aztecan's
 Aztecs
 Aztlan
 Aztlan's
-B
 B's
 BA
 BA's
@@ -20887,7 +20886,6 @@ Zyrtec's
 Zyuganov
 Zyuganov's
 Zzz
-a
 aah
 aardvark
 aardvark's
@@ -32686,7 +32684,6 @@ byword
 byword's
 bywords
 byzantine
-c
 ca
 cab
 cab's
@@ -42745,7 +42742,6 @@ czarist
 czarist's
 czarists
 czars
-d
 d'Arezzo
 d'Arezzo's
 d'Estaing
@@ -49057,7 +49053,6 @@ dysprosium
 dysprosium's
 dystonia
 dz
-e
 e'en
 e'er
 eBay
@@ -53054,7 +53049,6 @@ eyewitness
 eyewitness's
 eyewitnesses
 eying
-f
 fa
 fa's
 fab
@@ -57480,7 +57474,6 @@ fuzzing
 fuzzy
 fwd
 fwy
-g
 gab
 gab's
 gabardine
@@ -60857,7 +60850,6 @@ gyve's
 gyved
 gyves
 gyving
-h
 h'm
 ha
 haberdasher
@@ -64655,7 +64647,6 @@ hysterical
 hysterically
 hysterics
 hysterics's
-i
 iPad
 iPad's
 iPhone
@@ -68692,7 +68683,6 @@ ivory
 ivory's
 ivy
 ivy's
-j
 jab
 jab's
 jabbed
@@ -69620,7 +69610,6 @@ juxtaposing
 juxtaposition
 juxtaposition's
 juxtapositions
-k
 kHz
 kW
 kWh
@@ -70384,7 +70373,6 @@ kvetched
 kvetches
 kvetching
 kw
-l
 la
 la's
 lab
@@ -73495,7 +73483,6 @@ lyricists
 lyrics
 lysosomal
 lysosomes
-m
 ma
 ma'am
 ma's
@@ -78907,7 +78894,6 @@ mythology
 mythology's
 myths
 myxomatosis
-n
 naan
 naans
 nab
@@ -81050,7 +81036,6 @@ nymphomaniac's
 nymphomaniacs
 nymphos
 nymphs
-o
 o'clock
 o'er
 oaf
@@ -83539,7 +83524,6 @@ oysters
 oz
 ozone
 ozone's
-p
 pH
 pa
 pa's
@@ -91809,7 +91793,6 @@ pyx
 pyx's
 pyxes
 pzazz
-q
 qr
 qt
 qty
@@ -92303,7 +92286,6 @@ quotient's
 quotients
 quoting
 qwerty
-r
 rabbet
 rabbet's
 rabbeted
@@ -98317,7 +98299,6 @@ rutting
 rutty
 rye
 rye's
-s
 sabbatical
 sabbatical's
 sabbaticals
@@ -110189,7 +110170,6 @@ systole
 systole's
 systoles
 systolic
-t
 ta
 tab
 tab's
@@ -115517,7 +115497,6 @@ tyrants
 tyro
 tyro's
 tyros
-u
 ubiquitous
 ubiquitously
 ubiquity
@@ -117962,7 +117941,6 @@ uvular's
 uvulars
 uvulas
 uxorious
-v
 vac
 vacancies
 vacancy
@@ -119501,7 +119479,6 @@ vuvuzela
 vuvuzela's
 vuvuzelas
 vying
-w
 wack
 wacker
 wackest

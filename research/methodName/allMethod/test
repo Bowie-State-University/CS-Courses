@@ -1,0 +1,7 @@
+methodNames[FibonacciRec] = 1
+methodNames[FibonacciRecursiveOpt] = 1
+methodNames[FibonacciRecursive] = 1
+methodNames[FibonacciSeries] = 1
+methodNames[FibonacciTest] = 2
+methodNames[FibonacciTopDown] = 1
+methodNames[FibonacciUsingLoop] = 1
