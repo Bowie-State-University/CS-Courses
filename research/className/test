@@ -1,0 +1,3 @@
+className[AbstractContextFactory] = 8
+className[AbstractContextFreeCommand] = 6
+className[AbstractContextFreeEvent] = 6
