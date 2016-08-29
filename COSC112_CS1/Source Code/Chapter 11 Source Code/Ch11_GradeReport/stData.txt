@@ -1,0 +1,21 @@
+3 345
+Lisa Miller 890238 Y 4
+Mathematics MTH345 4 A
+Physics PHY357 3 B
+ComputerSci CSC478 3 B
+History HIS356 3 A
+
+Bill Wilton 798324 N 5
+English ENG378 3 B
+Philosophy PHL534 3 A
+Chemistry CHM256 4 C
+Biology BIO234 4 A
+Mathematics MTH346 3 C
+
+Dandy Goat 746333 Y 6
+History HIS101 3 A
+English ENG328 3 B
+Mathematics MTH137 3 A
+Chemistry CHM348 4 B
+ComputerSci CSC201 3 B
+Business BUS128 3 C

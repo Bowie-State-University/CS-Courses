@@ -1,0 +1,46 @@
+Student Name: Lisa Miller
+Student ID: 890238
+Number of courses enrolled: 4
+
+Course No  Course Name  Credits Grade 
+CSC478     ComputerSci      3      B
+HIS356     History          3      A
+MTH345     Mathematics      4      A
+PHY357     Physics          3      B
+
+Total number of credit hours: 13
+Mid-Semester GPA: 3.54
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Student Name: Bill Wilton
+Student ID: 798324
+Number of courses enrolled: 5
+
+Course No  Course Name  Credits Grade 
+BIO234     Biology          4    ***
+CHM256     Chemistry        4    ***
+ENG378     English          3    ***
+MTH346     Mathematics      3    ***
+PHL534     Philosophy       3    ***
+
+Total number of credit hours: 17
+*** Grades are being held for not paying the tuition. ***
+Amount Due: $5865.00
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Student Name: Dandy Goat
+Student ID: 746333
+Number of courses enrolled: 6
+
+Course No  Course Name  Credits Grade 
+BUS128     Business         3      C
+CHM348     Chemistry        4      B
+CSC201     ComputerSci      3      B
+ENG328     English          3      B
+HIS101     History          3      A
+MTH137     Mathematics      3      A
+
+Total number of credit hours: 19
+Mid-Semester GPA: 3.16
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
