@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+
+<body>
+
+
+
+<ul id="myList"><li>Coffee</li><li>Tea</li><li>Milk</li></ul>
+
+
+
+<p>Click the button to replace the first item in the the list.</p>
+
+
+
+<button onclick="myFunction()">Try it</button>
+
+
+
+<script>
+
+function myFunction() {
+
+    var textnode = document.createTextNode("Water");
+
+    var item = document.getElementById("myList").childNodes[0];
+
+    item.replaceChild(textnode, item.childNodes[0]);
+
+}
+
+</script>
+
+
+
+</body>
+
+</html>
+
